@@ -1,7 +1,6 @@
 title: Scaling Communication
 author:
   name: ferhat elmas
-  twitter: fachoper
   github: ferhatelmas
   url: https://ferhatelmas.com
 output: index.html
